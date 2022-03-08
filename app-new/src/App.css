@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.buttonAdd{
+  background-color: aquamarine;
+}
+
+.welcome{
+  background-color: rebeccapurple
+}
